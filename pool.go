@@ -1,6 +1,6 @@
 package yamux
 
-import pool "github.com/metacubex/sing/common/buf"
+import pool "github.com/kyuofox/sing/common/buf"
 
 func poolGet(size int) []byte {
 	if size > 65536 { // wtf???

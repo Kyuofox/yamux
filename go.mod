@@ -1,9 +1,9 @@
-module github.com/metacubex/yamux
+module github.com/kyuofox/yamux
 
 go 1.20
 
 require (
-	github.com/metacubex/sing v0.5.2
+	github.com/kyuofox/sing v0.0.0-20260305040306-d4fc611799ab
 	github.com/stretchr/testify v1.9.0
 )
 
